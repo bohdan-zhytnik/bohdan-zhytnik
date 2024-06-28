@@ -6,8 +6,8 @@ I am currently a student at Czech Technical University, pursuing a degree in Cyb
 
 ## Projects
 
-- [Fractal Calculation Application](https://github.com/username/fractal-calculation-application): A multi-threaded C application for calculating and visualizing fractals.
-- [Another Project](https://github.com/username/another-project): A brief description of another project.
+- [Fractal Calculation Application](https://github.com/bohdan-zhytnik/Fractal): A multi-threaded C application for calculating and visualizing fractals.
+- [University-subjects](https://github.com/bohdan-zhytnik/University-subjects): Some projects that I implemented during my studies.
 
 ## Connect with Me
 
