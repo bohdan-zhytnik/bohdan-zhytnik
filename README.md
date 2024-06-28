@@ -1,6 +1,6 @@
 # Hi, I am Bohdan
 
-# About Me
+## About Me
 
 I am currently a student at Czech Technical University, pursuing a degree in Cybernetics and Robotics at the Faculty of Electrical Engineering. My studies focus on advanced robotics, artificial intelligence, and control systems. I am passionate about developing innovative solutions and advancing technology in the field of robotics.
 
