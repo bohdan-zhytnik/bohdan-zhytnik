@@ -17,5 +17,4 @@ I am currently a student at Czech Technical University, pursuing a degree in Cyb
 ## GitHub Stats
 
 ![Bohdan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bohdan-zhytnik&show_icons=true&theme=dark)
-![Bohdan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bohdan-zhytnik&theme=dark)
 ![Bohdan's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-zhytnik&layout=compact&theme=dark)
