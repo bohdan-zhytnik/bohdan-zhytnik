@@ -1,4 +1,4 @@
-## Hi, I am Bohdan
+# Hi, I am Bohdan
 
 # About Me
 
