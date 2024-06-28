@@ -14,3 +14,4 @@ I am currently a student at Czech Technical University, pursuing a degree in Cyb
 - LinkedIn - https://www.linkedin.com/in/bohdan-zhytnik-4980b9315/
 - Email - bohdan.zhytnik@gmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohdan-zhytnik)](https://github.com/anuraghazra/github-readme-stats)
