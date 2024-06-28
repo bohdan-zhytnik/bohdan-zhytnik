@@ -11,6 +11,6 @@ I am currently a student at Czech Technical University, pursuing a degree in Cyb
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)
-- [Email](mailto:your-email@example.com)
+- LinkedIn - https://www.linkedin.com/in/bohdan-zhytnik-4980b9315/
+- Email - bohdan.zhytnik@gmail.com
 
